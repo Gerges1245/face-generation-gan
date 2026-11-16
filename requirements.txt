@@ -1,0 +1,9 @@
+# Exact package versions were not recorded in the original notebook.
+# For CUDA, install a compatible torch/torchvision build first.
+torch
+torchvision
+numpy
+Pillow
+matplotlib
+tqdm
+notebook
